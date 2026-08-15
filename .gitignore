@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Uploaded/generated videos
+static/uploads/
+videos/
+*.mp4
+*.avi
+*.mov
+
+# IDE
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
